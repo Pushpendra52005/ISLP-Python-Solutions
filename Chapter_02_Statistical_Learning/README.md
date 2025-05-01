@@ -6,6 +6,11 @@
 📦 ISLP (pip install islp)
 
 
+🐍 Python 3.x
+📦 pandas, numpy, matplotlib, seaborn
+📦 ISLP (pip install islp)
+
+
 ---
 
 ## 📚 References
