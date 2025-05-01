@@ -1,10 +1,6 @@
-<h1 align="center">📘 Chapter 02: Statistical Learning</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="240"/>
-</p>
-<p align="center">
-  <b>Explore the core concepts of Statistical Learning 🔬 | Learn through Python Labs 🐍</b>
-</p>
+# Chapter 02: Statistical Learning
+
+This chapter introduces the fundamental concepts of statistical learning, distinguishing between different types of learning problems and approaches. It focuses on the roles of prediction and inference in supervised learning, along with key concepts like the bias-variance trade-off and model flexibility.
 
 ---
 
